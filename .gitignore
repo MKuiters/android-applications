@@ -1,2 +1,5 @@
 **/.idea/**
 *.iml
+**/settings.gradle
+**/build.gradle
+**/proguard-rules.pro
